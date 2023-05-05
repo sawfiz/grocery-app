@@ -1,2 +1,2 @@
-# grocery-app
-React tutorial - Thinking in React
+Code along the React tutorial from 
+https://react.dev/learn/thinking-in-react
